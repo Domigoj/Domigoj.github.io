@@ -5,7 +5,7 @@
 ### Projects I worked on
 
 [Pop Art Drink Smart](/sample_page)
-<img src="https://play-lh.googleusercontent.com/EoQ9e1IvEyzhCpYfPzGBQQi2outhBNn4WaVtHYOmiIga5LXJvsjLhDxJuQtg5bKs0zw=w720-h310-rw"/>
+<img src="https://play-lh.googleusercontent.com/kdPzTLNWQAfkTcIqMZHERgxkUMTs9OwJ-ISn3j4x3Vev8kbDXFvWYGG3616RveZLLGI=s180-rw"/>
 <br>
 Role: Programming of general functionality.
 
