@@ -1,9 +1,12 @@
 title: Domagoj Petrović # your name (or website title) here
 logo: "/profileImage.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Date of birth: 29.9.1998
+  Age: 22
+  Location Pakrac / Novska, Croatia
   <br><br>
-  Second description 
+  Programming skills:
+  -Unity / C#
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
