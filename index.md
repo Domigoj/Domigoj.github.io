@@ -2,10 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Projects I worked on
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Pop Art Drink Smart](/sample_page)
+<img src="https://play-lh.googleusercontent.com/EoQ9e1IvEyzhCpYfPzGBQQi2outhBNn4WaVtHYOmiIga5LXJvsjLhDxJuQtg5bKs0zw=w720-h310-rw"/>
+<br>
+Role: Programming of general functionality.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +19,7 @@
 
 ---
 
-### Category Name 2
+### Current projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
