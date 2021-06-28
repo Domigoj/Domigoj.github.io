@@ -4,7 +4,7 @@
 
 ### Projects I worked on
 
-[Pop Art Drink Smart](/sample_page)
+[Pop Art Drink Smart](https://play.google.com/store/apps/details?id=com.PISMOInkubator.PopArtDrinkSmart)
 <img src="https://play-lh.googleusercontent.com/kdPzTLNWQAfkTcIqMZHERgxkUMTs9OwJ-ISn3j4x3Vev8kbDXFvWYGG3616RveZLLGI=s180-rw"/>
 <br>
 Role: Programming of general functionality.
